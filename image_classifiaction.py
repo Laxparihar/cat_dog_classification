@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1f8bW2viOmxf7iVpuhTo87q3fcxLd6_46
 """
 
-!unzip '/content/drive/MyDrive/Data Science/CV/cats and dogs.zip'
+#!unzip '/content/drive/MyDrive/Data Science/CV/cats and dogs.zip'
 
 import numpy as np
 import pandas as pd
